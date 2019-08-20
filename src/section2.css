@@ -1,0 +1,35 @@
+.linkers{
+    display: flex ;
+    align-items: baseline ; 
+   
+
+}
+.linkers>h3 {
+    font-family: Helvetica, Arial, sans-serif;
+    Font-size: 26px;
+    Font-weight: 300;
+    color: rgb(0, 179, 155);
+    margin-left: 180px;
+    width: 300px;
+    margin-right: 100px;
+}
+#liens {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 110px ;
+    width: 480px;
+    flex-wrap: wrap ;
+    position : relative ; 
+    color : grey ;  
+    font-weight: bold ;
+  
+}
+
+
+.ZnamyLekar {
+    position: absolute ; 
+    left:  10px ;
+    padding-top: 20px ;
+    
+}

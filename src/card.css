@@ -1,0 +1,56 @@
+.carte {
+    display: flex ; 
+  margin-left: 180px; 
+
+
+}
+.patient{
+    background-color: #00CCB1;
+    border-radius: 10px;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    Font-size: 20px;
+    Font-weight: 400;
+    height: 390px ;
+    width: 470px ;
+    padding: 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.image {
+    width: 300px;
+ 
+     position: absolute ; 
+     bottom: 0;
+     right: -100px;
+}
+
+
+.doctor {
+    padding: 10px;
+  position: relative;
+
+    background-color: #3D83DF;
+    margin-left: 20px;
+    border-radius: 10px;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    Font-size: 20px;
+    Font-weight: 400;
+    height: 390px ;
+    width: 470px ;
+    overflow: hidden ; 
+}
+.image-doc{
+position: absolute ;
+    width: 300px;
+    right: -100px;
+    bottom: 0px;
+  
+}
+.menu {
+    border-radius: 8px ; 
+    display: flex ; 
+    justify-content: flex-start ;
+}

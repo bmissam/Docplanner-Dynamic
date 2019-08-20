@@ -1,0 +1,93 @@
+.main {
+    background-color: #D9F6F6;
+    position: relative;
+    height: 650px;
+}
+
+.division {
+    display: flex;
+  
+    justify-content: space-around;
+}
+
+h2 {
+    font-family: sans-serif;
+    Font-size: 24px;
+    Font-weight: 400;
+    color: rgb(0, 179, 155);
+    margin-left: 20px;
+}
+
+.main-intro {
+    margin-left: 90px;
+    margin-right: 700px;
+    padding: 20px;
+}
+
+.star {
+    width: 500px;
+    height: 443px;
+}
+
+.main-intro>p {
+    margin-left: 30px;
+    color: grey;
+}
+
+.Country {
+    background: #fff;
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px;
+    font-size: .8125em;
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    top: 30px;
+    right: 450px;
+}
+
+.Agenda {
+    background: #fff;
+    border-radius: 5px;
+    height: 250px;
+    text-align: center;
+    padding: 15px;
+    font-size: .8125em;
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    top: 10px;
+    right: 200px;
+}
+
+.visit {
+    background: #fff;
+    border-radius: 5px;
+    height: 250px;
+    text-align: center;
+    padding: 15px;
+    font-size: .8125em;
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    bottom: 10px;
+    right: 450px;
+}
+
+.com {
+    background: #fff;
+    border-radius: 5px;
+    height: 250px;
+    text-align: center;
+    padding: 15px;
+    font-size: .8125em;
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    bottom: 30px;
+    right: 200px;
+}
+
+.main>h1 {
+    padding-top: 60px;}

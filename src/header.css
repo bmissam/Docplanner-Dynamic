@@ -1,0 +1,67 @@
+.principal {
+    display: flex ; 
+    justify-content: space-between ;
+    margin-top: 40px ;
+}
+.mainn{
+    display: flex ; 
+    margin-right: 180px;
+    color: grey; 
+    padding-left: 30px ;
+}
+li {
+    list-style: none ;
+}
+.logos{
+    width: 268px;
+    height: 33px;
+    margin-left:  180px ;
+}
+    .drop-menu {
+        display: none;
+        background-color: white;
+        width: 150px;
+        padding: 10px;
+        margin: 0;
+position: absolute ;
+        
+        box-shadow: 5px 10px;
+        color: #d3cfc9;
+        border-radius: 10px;
+  
+    }
+    
+    .menu-item:hover .drop-menu {
+        display: flex;
+        flex-direction: column;
+       
+
+    }
+    .men {
+        display: flex;
+        color: grey;
+        margin: 5px 0;
+        font-family: Helvetica, Arial, sans-serif;
+        Font-size: 14px;
+        padding: 5px;
+    }
+    .men:hover {
+        color: rgb(0, 179, 155);
+        background-color: #e9e9e9;
+    }
+    #about {
+        color :grey ;
+        padding-right: 20px ;
+    }
+    #about:hover {
+        color: rgb(0, 179, 155);
+    }
+    #career {
+        color :grey ;
+        padding-right: 20px ;
+    }
+    #career:hover {
+        color: rgb(0, 179, 155);
+    }
+    
+    
